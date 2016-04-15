@@ -111,7 +111,7 @@ body{
 /* ---------- /TIMER ---------- */
 .content {
 	text-align: center;
-	color: #a0c;
+	color: #e03;
 	margin-top: 2.5em;
 	padding-bottom: 2.5em;
 	border-bottom: 1px solid #131628;
@@ -398,7 +398,7 @@ body {
 	min-height: 703px;
 }
 .logo img{
-	width:30%;
+	width:20%;
 }
 .content {
 	margin-top: 2em;
@@ -452,8 +452,8 @@ i.follow {
 body {
 	min-height: 550px;
 }
-.logo a img {
-	width: 44%;
+logo{
+	width: 33%;
 	margin: 0 auto;
 }
 .content-bottom {
